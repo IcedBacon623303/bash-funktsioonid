@@ -18,6 +18,7 @@ Linuxis saab käivitusfaili käivitada ka otse:
 
 ```bash
 cd lottery/03-modular
+chmod +x lottery.sh
 ./lottery.sh
 ```
 
