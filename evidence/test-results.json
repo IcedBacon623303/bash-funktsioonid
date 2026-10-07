@@ -1,0 +1,161 @@
+{
+  "checked_at_utc": "2026-10-07T08:25:49.552691+00:00",
+  "bash": "GNU bash, version 5.3.15(2)-release (x86_64-pc-cygwin)",
+  "total": 38,
+  "passed": 38,
+  "failed": 0,
+  "tests": [
+    {
+      "test": "27 Bash-faili süntaks ja LF reavahetused",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 01",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 02",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 03",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 04",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 05",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 06",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 07",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 08",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 09",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 10",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 11",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 12",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 13",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 14",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 15",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 16",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 17",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 18",
+      "status": "PASS"
+    },
+    {
+      "test": "Näidisteema 19",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 01-procedural: valid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 01-procedural: invalid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 01-procedural: history",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 01-procedural: eof",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 01-procedural: random",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 02-functions: valid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 02-functions: invalid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 02-functions: history",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 02-functions: eof",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 02-functions: random",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 03-modular: valid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 03-modular: invalid",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 03-modular: history",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 03-modular: eof",
+      "status": "PASS"
+    },
+    {
+      "test": "Loto 03-modular: random",
+      "status": "PASS"
+    },
+    {
+      "test": "Kõik kuus tulemuse hinnangut ja vigane tabamuste arv",
+      "status": "PASS"
+    },
+    {
+      "test": "Kõik kuus tabamuste arvu päris failidega",
+      "status": "PASS"
+    },
+    {
+      "test": "Loositud duplikaat jäetakse vahele",
+      "status": "PASS"
+    }
+  ]
+}
