@@ -1,0 +1,5 @@
+player_numbers.txt
+lottery_numbers.txt
+results.txt
+__pycache__/
+*.pyc
